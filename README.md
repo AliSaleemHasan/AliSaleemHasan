@@ -1,16 +1,16 @@
 ## Hi there 👋
 ```
-                                                  ________________________________________
-                                                 |                                        |
-                                                 |   <MASTER OF COMPUTER SCIENCE/>        |
-                                                 |   Parallel Architectures • AI          |
-                                                 |   Full-Stack Web Systems               |
-                                                 |________________________________________|
-                                                            \   ^__^
-                                                             \  (oo)\_______
-                                                                (__)\       )\/\
-                                                                    ||----w |
-                                                                    ||     ||
+  ________________________________________
+ |                                        |
+ |   <MASTER OF COMPUTER SCIENCE/>        |
+ |   Parallel Architectures • AI          |
+ |   Full-Stack Web Systems               |
+ |________________________________________|
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
 
 
 ```
