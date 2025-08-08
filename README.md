@@ -32,7 +32,6 @@ crafting robust solutions via **full-stack web development**.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="125">](https://linkedin.com/in/ali-saleem-hasan)
 [<img src="https://img.shields.io/badge/CodeBerg-2185D0?style=for-the-badge&logo=git&logoColor=white" width="130">](https://codeberg.org/AliSaleemHasan?tab=activity)
-[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" width="125">](https://ali-saleem-hasan.vercel.app/work)
 
 ## 🧠 Why Collaborate With Me?
 
