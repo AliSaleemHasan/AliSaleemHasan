@@ -2,9 +2,9 @@
 ```
   ________________________________________
  |                                        |
- |   <MASTER OF COMPUTER SCIENCE/>        |
+ |   Full-Stack Web Systems 
  |   Parallel Architectures • AI          |
- |   Full-Stack Web Systems               |
+ |              |
  |________________________________________|
             \   ^__^
              \  (oo)\_______
@@ -23,10 +23,11 @@ crafting robust solutions via **full-stack web development**.
 
 ## 🛠 What I'm Working On
 
+- **Web Systems**: Building performant full-stack applications with modern frameworks (3 years of experience)
 - **Parallel Programming**: Optimizing algorithms for multi-core architectures using OpenMP/MPI with High performance computers
 - **AI Development**: Playing with Deep Neural Networks mostly (base knowledge)
-- **Web Systems**: Building performant full-stack applications with modern frameworks (3 years of experience)
-- **Continuous Learning**: Currently exploring quantum computing fundamentals
+
+  
 
 ## 🌐 Connect With Me
 
@@ -35,7 +36,7 @@ crafting robust solutions via **full-stack web development**.
 
 ## 🧠 Why Collaborate With Me?
 
-```text
+```javascript
 while(true) {
     explore_new_technology();
     implement_solution();
