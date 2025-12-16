@@ -16,7 +16,6 @@
 ```
 ### 🔍 Exploring the Frontiers of Compute
 
-**Currently pursuing M.Sc. in Computer Science** at Szechenyi Istvan University, 
 Focusing on high-performance systems through **parallel programming paradigms**,  
 building intelligent systems with **modern AI techniques**, and  
 crafting robust solutions via **full-stack web development**.
